@@ -8,6 +8,11 @@
 				"default_popup": "popup.html",
 				"default_icon": "icon.png"
 		},
+		"browser_specific_settings": {
+				"gecko": {
+						"id": "sil3nt@gmx.de"
+				}
+		},
 		"content_scripts": [
     {
 				"matches": ["*://www.youtube.com/*"],
